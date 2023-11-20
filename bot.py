@@ -5,7 +5,7 @@ from typing import List
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "5674619352:AAEDay5rCaj6hfWp6lgyDPJiJYrj0uSFR5A"
+TOKEN = "Token"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot=bot)
